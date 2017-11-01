@@ -1,10 +1,10 @@
 {
   "name": "limone",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Limone is new generation CSS framework for single page application.",
   "main": "index.js",
   "files": [
-    "limone"
+    "scss"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
