@@ -1,0 +1,27 @@
+{
+  "name": "limone",
+  "version": "0.0.1",
+  "description": "Limone is new generation CSS framework for single page application.",
+  "main": "index.js",
+  "files": [
+    "limone"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iq3addLi/Limone.git"
+  },
+  "keywords": [
+    "scss",
+    "css-framework",
+    "single-page-application"
+  ],
+  "author": "iq3",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iq3addLi/Limone/issues"
+  },
+  "homepage": "https://github.com/iq3addLi/Limone#readme"
+}
